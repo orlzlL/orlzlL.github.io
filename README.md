@@ -1,11 +1,33 @@
-# Windows 95 Theme for Jekyll
+---
+layout: page
+title: About
+permalink: /about/
+---
 
-![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
+## Theme Monos
+> Simple and lightweight theme for Jekyll
 
-Homepage: [Windows 95](https://h01000110.github.io/20170917/windows-95)
+### Features
+- Responsive.
+- Syntax Highlight
+- Most optimized theme for tech blog.
+- Lightweight with minimum stylesheet.
+- Easy to customize.
+- Offers category menu.
 
-Demo: [Click here](https://h01000110.github.io/windows-95/)
+### _config.yml
+> Code block will look like this.
+```yml
+highlighter-theme: monokai //you can change your syntax color scheme.
+date_format: "%Y-%M-%D" //and date format.
+```
 
-Author: [h01000110 (hi)](https://github.com/h01000110)
-
-License: [MIT](https://github.com/h01000110/windows-95/blob/master/LICENSE)
+### Screenshots
+#### Page
+![alt text](/public/img/screenshot-1.png)
+#### Articles
+![alt text](/public/img/screenshot-2.png)
+#### Page - Mobile
+![alt text](/public/img/screenshot-m1.png)
+#### Page - Articles
+![alt text](/public/img/screenshot-m2.png)
